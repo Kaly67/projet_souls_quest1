@@ -1,0 +1,112 @@
+.lobster-two-regular {
+    font-family: 'Lobster Two', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
+body {
+
+            line-height: 1.4;
+}
+
+            p {
+            background-color: beige;
+            color : black;
+            text-align : justify;
+            font-family : 'Montserrat', sans-serif;
+            font-size : 16px;
+          
+            line-height: 1.4;
+            }
+            h1, h3 {
+            background-color: azure;
+            color : darkgreen;
+            text-align : center;
+            font-family : 'Lobster Two Regular', sans-serif;
+            font-size : 26px;
+            }
+            h2 {
+            background-color: blanchedalmond;
+            color : darkred;
+            font-family : 'Montserrat', sans-serif;
+            font-size : medium;
+            }
+            h4 {
+            color : darkturquoise;
+            font-size: 20px;
+            }
+            table, td {
+            border : 1px;
+            color : black;
+            color : black;
+    
+            }
+            thead, tfoot {
+            color : black;
+            border : 1px;
+            color : black;
+            }
+
+
+
+.header {
+            background-color: blanchedalmond;
+            background-image:url("img/decor_souls_quest.jpg");
+}
+            
+.navbar {
+            position: static;
+            color: blue;
+            text-align: left;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 18px;
+
+}
+
+.navbar a {
+            margin-right: 20px;
+            background-color: blanchedalmond;
+            text-align: center;
+
+}
+
+.right {
+            background-color: lightgreen;
+            color: black;
+            font-family: 'Lobster Two Regular', sans-serif;
+            text-align: right;
+            font-size: 18px;
+
+}
+
+.img {
+            font-family: 'Lobster Two', sans-serif;
+            text-align: center;
+            padding: 20px 10px;
+}
+
+.citation {
+            text-align: center;
+            color: darkred;
+            font-size: 24px;
+            font-family: 'Montserrat', sans-serif;
+}
+
+.button{
+
+  color: black;
+  background: lightgreen;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 1em;
+}
+
+.blockquote {
+            background-color: blanchedalmond;
+            font-size: 26px;
+}
+
+.italique {
+  text-transform: capitalize;
+}
